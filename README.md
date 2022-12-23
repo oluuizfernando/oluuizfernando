@@ -11,7 +11,8 @@
   <div style="display: inline_block"><br>
     <img align="center" height="180" alt="coding-time" src="coding.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg"
+    <img align="center" height="40" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
+    <img align="center" height="40" width="40" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
    </div>
     
   
