@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="center" height="180" alt="coding-time" src="coding.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg"
    </div>
     
   
