@@ -2,14 +2,14 @@
 
 <div>
   
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=oluuizfernando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluuizfernando&layout=compact&langs_count=16&theme=react"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=oluuizfernando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluuizfernando&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="coding.gif">
+    <img align="center" height="180" alt="coding-time" src="coding.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
    </div>
