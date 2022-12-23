@@ -11,20 +11,20 @@
   <div style="display: inline_block"><br>
     <img align="center" height="180" alt="coding-time" src="coding.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="40" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
-    <img align="center" height="40" width="40" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
+    <img align="center" height="50" width="50" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
+    <img align="center" height="50" width="50" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: euluizfernando2001@gmail.com">
-      <img width="30" src="gmail.png">
+      <img width="50" src="gmail.png">
     </a>
     <a href = "www.linkedin.com/in/luizfernandotr">
-      <img width="25" src="linkedin.png">
+      <img width="50" src="linkedin.png">
     </a>
     <a href = "https://www.youtube.com/channel/UC3MAM4GFtpvHFjdBYXCnHGw">
-      <img width="35" src="youtube.png">
+      <img width="50" src="youtube.png">
     </a>
 </div>
   
