@@ -20,7 +20,7 @@
     <a href = "mailto: euluizfernando2001@gmail.com">
       <img width="50" src="gmail.png">
     </a>
-    <a href = "www.linkedin.com/in/luizfernandotr">
+    <a href = "www.linkedin.com/in/luizfernandotr/">
       <img width="50" src="linkedin.png">
     </a>
     <a href = "https://www.youtube.com/channel/UC3MAM4GFtpvHFjdBYXCnHGw">
