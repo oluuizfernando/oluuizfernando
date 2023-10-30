@@ -14,7 +14,6 @@
     <img align="center" height="50" width="50" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
     <img align="center" height="50" width="50" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
     <img align="center" height="50" width="50" alt="java-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png">
-      <img align="center" height="50" width="50" alt="tsql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/tsql.png">
    </div>
     
   
