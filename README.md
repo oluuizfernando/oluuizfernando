@@ -1,31 +1,18 @@
 ## Fala Devs! Luiz Aqui!
 
-<div>
-  
-  <img  height="145em" src="https://github-readme-stats.vercel.app/api?username=oluuizfernando&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluuizfernando&layout=compact&langs_count=16&theme=react"/>
-</div>
-<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfernandotr/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3MAM4GFtpvHFjdBYXCnHGw)
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="50" width="50" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
-    <img align="center" height="50" width="50" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
-    <img align="center" height="50" width="50" alt="java-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: euluizfernando2001@gmail.com">
-      <img width="50" src="gmail.png">
-    </a>
-    <a href = "www.linkedin.com/in/luizfernandotr/">
-      <img width="50" src="linkedin.png">
-    </a>
-    <a href = "https://www.youtube.com/channel/UC3MAM4GFtpvHFjdBYXCnHGw">
-      <img width="50" src="youtube.png">
-    </a>
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluuizfernando&show_icons=true&theme=transparent)
+
+### Tecnologias que mais utilizo
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <h1></h1>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluuizfernando&langs_count=8)
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
