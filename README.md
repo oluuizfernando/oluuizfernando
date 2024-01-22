@@ -9,7 +9,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="180" alt="coding-time" src="coding.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="50" width="50" alt="python-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/python.png">
     <img align="center" height="50" width="50" alt="mysql-icon"  src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png">
