@@ -13,5 +13,6 @@
   <h1></h1>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluuizfernando&langs_count=8)
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
